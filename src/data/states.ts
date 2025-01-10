@@ -232,7 +232,7 @@ export const states: StateData[] = [
           environment: 3,
           population: 4,
           taxImportance: 3,
-          brazilianCommunity: 4,
+          brazilianCommunity: 5,
         },
       },
       {
